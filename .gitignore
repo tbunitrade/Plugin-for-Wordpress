@@ -1,0 +1,12 @@
+#ignore all logs
+logs
+.log
+#ignore phpstorm config files
+.idea
+#ignore wp config files
+wp-config.php
+#ignore nodejs files
+node-modules
+#ignore another files like archive etc.
+*.zip
+*.rar
